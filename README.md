@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-    <a href="[hh.ru](https://hh.ru/resume/9c5aec7cff0334aa530039ed1f7667484e706a)">
+    <a href="https://hh.ru/resume/9c5aec7cff0334aa530039ed1f7667484e706a">
       <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=hh&logoColor=white" alt="HeadHunter Badge"/>
     </a>
   </div>
